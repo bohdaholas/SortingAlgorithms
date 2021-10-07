@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Sortings.dir/main.c.o CMakeFiles/Sortings.dir/sorting_algorithms.c.o -o Sortings 
