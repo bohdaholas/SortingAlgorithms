@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bohdaholas/Documents/UCU/Algorithms/Sortings/SortingAlgorithms/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+sorting_algorithms.h
+/home/bohdaholas/Documents/UCU/Algorithms/Sortings/SortingAlgorithms/sorting_algorithms.h
+
+/home/bohdaholas/Documents/UCU/Algorithms/Sortings/SortingAlgorithms/sorting_algorithms.c
+sorting_algorithms.h
+/home/bohdaholas/Documents/UCU/Algorithms/Sortings/SortingAlgorithms/sorting_algorithms.h
+
+/home/bohdaholas/Documents/UCU/Algorithms/Sortings/SortingAlgorithms/sorting_algorithms.h
+
